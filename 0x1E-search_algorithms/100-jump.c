@@ -56,11 +56,3 @@ int jump_search(int *array, size_t size, int value)
 
 	return (-1);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Do
